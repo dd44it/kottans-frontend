@@ -3,7 +3,7 @@
 Hello, my name is Dimond. I like to explore smth new and this course great challange for me. Actually I have some experience in the past life, but when I have watched course content, understood that can help to grow up in hard skills.
 
 **General**
-- [ ] [Git Basics](#git-basics)
+- [x] [Git Basics](#git-basics)
 - [ ] [Linux CLI and Networking](#linux-cli-and-networking)
 - [ ] [Git Collaboration](#git-collaboration)
 
@@ -39,4 +39,5 @@ I already have basic knowledge about git and used common patterns in the small s
 <img src="git-basics/2/git_basic_learngitbranching_1.png">
 <img src="git-basics/2/git_basic_learngitbranching_2.png">
 </details>
+Best visual tutorial about git that I have ever seen. Gradual load of educational material greatly helps to learn the material. I especially have liked the discussion about what best use rebase or merge.
 

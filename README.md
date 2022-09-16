@@ -41,3 +41,51 @@ I already have basic knowledge about git and used common patterns in the small s
 </details>
 Best visual tutorial about git that I have ever seen. Gradual load of educational material greatly helps to learn the material. I especially have liked the discussion about what best use rebase or merge.
 
+## Linux CLI, and HTTP
+<details>
+<summary>2.1 Course: Linux Survival (screenshots)</summary>
+<img src="task_linux_cli/quiz1.png">
+<img src="task_linux_cli/quiz2.png">
+<img src="task_linux_cli/quiz3.png">
+<img src="task_linux_cli/quiz4.png">
+</details>
+
+I have passed Linux CLI course and that shows how linux works and how I can doing project with them in future. First and second part course gives base model interconnection between me and OS, I have already familiar with some commands, and it isn't bad to repeat them. 
+New staff for me were command
+1 module:
+<ul>
+  <li>
+    <b>more</b>, show detail about file
+  </li>
+  <li>
+    special argument <b> ".." </b>
+  </li>
+</ul>
+
+2 module:
+<ul>
+  <li>
+    <b>cp</b>, copy file and <b>rm</b> remove file
+  </li>
+  <li>
+    <b>chmod</b>, give permission user, a bit suprised me I have never met simple way to give permission with different scenario (read, write, execute) 
+</ul>
+
+3 module:
+<ul>
+  <li>
+    All command were new for me. I like command cat and man also command find will be useful
+  </li>
+</ul>
+4 module:
+<ul>
+  <li>
+    Thought material about where I can provide it and will be usuful for me?. Anyway <b>ps aux</b> get a detailed list of all processes probably should hold this into my memory)
+  </li>
+  <li>
+    <b>kill ___</b> light version close active processes
+  </li>
+  <li>
+    <b>kill -9</b> heavy version close active processes
+  </li>
+</ul>

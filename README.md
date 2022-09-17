@@ -91,3 +91,12 @@ New staff for me were command
 </ul>
 
 I have read and partially understood how the http protocol works. I think that such details need to be understood for further work in the web project. I have liked the part about how SSL works and her type RSA encryption, showing the main difference between http and https. It is also quite important to explain the work between the client and the server, and how they exchange datas. I also paid attention to the hashing process, its types are private and public, I haven't been knowing that hashing can be controlled since I read this article. Cool
+
+## Git Collaboration
+
+<details>
+<summary>Git Collaboration week 3</summary>
+<img src="git-collaboration/week3.png">
+</details>
+
+Actually I've expirensed with GitHub and known how to work with him (basic version I think =) ). In this module I've found for me solve conflicts with console before that I've solved with git extension (ui). And previous part in the portal learngitbranching I passed all task in one time and some lesson here (coursera) was more easier.

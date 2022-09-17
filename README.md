@@ -4,7 +4,7 @@ Hello, my name is Dimond. I like to explore smth new and this course great chall
 
 **General**
 - [x] [Git Basics](#git-basics)
-- [ ] [Linux CLI and Networking](#linux-cli-and-networking)
+- [x] [Linux CLI and Networking](#linux-cli-and-networking)
 - [ ] [Git Collaboration](#git-collaboration)
 
 **Front-End Basics**
@@ -89,3 +89,5 @@ New staff for me were command
     <b>kill -9</b> heavy version close active processes
   </li>
 </ul>
+
+I have read and partially understood how the http protocol works. I think that such details need to be understood for further work in the web project. I have liked the part about how SSL works and her type RSA encryption, showing the main difference between http and https. It is also quite important to explain the work between the client and the server, and how they exchange datas. I also paid attention to the hashing process, its types are private and public, I haven't been knowing that hashing can be controlled since I read this article. Cool

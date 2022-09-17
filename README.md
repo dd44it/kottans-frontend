@@ -5,7 +5,7 @@ Hello, my name is Dimond. I like to explore smth new and this course great chall
 **General**
 - [x] [Git Basics](#git-basics)
 - [x] [Linux CLI and Networking](#linux-cli-and-networking)
-- [ ] [Git Collaboration](#git-collaboration)
+- [x] [Git Collaboration](#git-collaboration)
 
 **Front-End Basics**
 - [ ] [Intro to HTML and CSS](#intro-to-html-and-css)
@@ -100,3 +100,10 @@ I have read and partially understood how the http protocol works. I think that s
 </details>
 
 Actually I've expirensed with GitHub and known how to work with him (basic version I think =) ). In this module I've found for me solve conflicts with console before that I've solved with git extension (ui). And previous part in the portal learngitbranching I passed all task in one time and some lesson here (coursera) was more easier.
+
+<details>
+<summary>Git Collaboration week 4</summary>
+<img src="git-collaboration/week4.png">
+</details>
+
+So good material. Really useful guides about pull request on GitHub. I've uderstood what a code review and workflow relative with them. I saw how managing projects and accepting or rejecting changes in project.

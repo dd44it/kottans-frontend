@@ -8,7 +8,7 @@ Hello, my name is Dimond. I like to explore smth new and this course great chall
 - [x] [Git Collaboration](#git-collaboration)
 
 **Front-End Basics**
-- [ ] [Intro to HTML and CSS](#intro-to-html-and-css)
+- [x] [Intro to HTML and CSS](#intro-to-html-and-css)
 - [ ] [Responsive Web Design](#responsive-web-design)
 - [ ] [HTML CSS Popup](#html-css-popup)
 - [ ] [JS Basics](#js-basics)

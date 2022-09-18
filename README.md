@@ -115,3 +115,10 @@ So good material. Really useful guides about pull request on GitHub. I've uderst
 <img src="task_html_css_intro/coursera_week2.png">
 </details>
 A bit of a boring course, but maybe that's because I was familiar with almost all of the material. I've learned something new HTML Character Entity References, I don't think so now it's actual but ok. I was amazed at how Stackoverflow's main page looks like in 2015 =) and second version Bootstrap in those times it called Twitter Bootstrap. 
+
+<details>
+<summary>Intro to HTML and CSS codeacedemy</summary>
+<img src="task_html_css_intro/codeacademy_html.png">
+<img src="task_html_css_intro/codeacademy_css.png">
+</details> 
+Both modules were interesting and exciting, a good start for any beginner. Each part of the task was useful and it can be used in projects depending on the task

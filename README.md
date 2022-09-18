@@ -107,3 +107,11 @@ Actually I've expirensed with GitHub and known how to work with him (basic versi
 </details>
 
 So good material. Really useful guides about pull request on GitHub. I've uderstood what a code review and workflow relative with them. I saw how managing projects and accepting or rejecting changes in project.
+
+## Intro to HTML and CSS
+<details>
+<summary>Intro to HTML and CSS</summary>
+<img src="task_html_css_intro/coursera_week1.png">
+<img src="task_html_css_intro/coursera_week2.png">
+</details>
+A bit of a boring course, but maybe that's because I was familiar with almost all of the material. I've learned something new HTML Character Entity References, I don't think so now it's actual but ok. I was amazed at how Stackoverflow's main page looks like in 2015 =) and second version Bootstrap in those times it called Twitter Bootstrap. 

@@ -122,3 +122,35 @@ A bit of a boring course, but maybe that's because I was familiar with almost al
 <img src="task_html_css_intro/codeacademy_css.png">
 </details> 
 Both modules were interesting and exciting, a good start for any beginner. Each part of the task was useful and it can be used in projects depending on the task
+
+## Responsive Web Design
+<ol>
+  <li>
+    Responsive web design basics. Here, I have found short introduce about flex and grid who effectively solves the problem of responsive also important instruction how to use media queries and better implement in project. Each advise will be necessary depends on a project
+  </li>
+  <li>
+    FLEXBOX. Вчимося верстати на флексах
+    Good lessons and course at all!
+  </li>
+  <li>
+    Flexbox Froggy
+    <details>
+      <summary>Screenshot </summary>
+      <img src="task_responsive_web_design/froggy.png">
+    </details> 
+    I like this game and their quests useful, interesting, relevant.
+  </li>
+  <li>
+    CSS Grid Layout
+    I have never used css grid before so it was hard, every material maybe implemented in project much easier than float. 
+    I like command grid-template, powerful tool in one command I can insert template with all options in differet ways what I want. This ability gives an advantage to all past technologies like flex and so on. 
+  </li>
+  <li>
+    Grid Garden 
+    <details>
+      <summary>Screenshot </summary>
+      <img src="task_responsive_web_design/garden.png">
+    </details> 
+    I like this game and their quests useful, interesting, relevant.
+  </li>
+<ol>

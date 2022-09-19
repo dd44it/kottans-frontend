@@ -9,7 +9,7 @@ Hello, my name is Dimond. I like to explore smth new and this course great chall
 
 **Front-End Basics**
 - [x] [Intro to HTML and CSS](#intro-to-html-and-css)
-- [ ] [Responsive Web Design](#responsive-web-design)
+- [x] [Responsive Web Design](#responsive-web-design)
 - [ ] [HTML CSS Popup](#html-css-popup)
 - [ ] [JS Basics](#js-basics)
 - [ ] [DOM](#dom)

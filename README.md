@@ -11,7 +11,7 @@ Hello, my name is Dimond. I like to explore smth new and this course great chall
 - [x] [Intro to HTML and CSS](#intro-to-html-and-css)
 - [x] [Responsive Web Design](#responsive-web-design)
 - [ ] [HTML CSS Popup](#html-css-popup)
-- [ ] [JS Basics](#js-basics)
+- [x] [JS Basics](#js-basics)
 - [ ] [DOM](#dom)
 
 **Advanced Topics**

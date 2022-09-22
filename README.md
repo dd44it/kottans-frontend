@@ -175,3 +175,14 @@ All parts of this module I can be used in the future.
   <img src="task_js_basics/freecodecamp_inter_alg_scripting.png">
 </details>
 One of my favorite resource learning web it's "freecodecamp". I have done some task before course started and I liked amount this tasks and complexity. Each part of the module provides theoretical and practical material that helps to understand the essence of the task. In module "es6" almost all lessons was new for me I studied many powerful new features in JS my best its theme about Promise and async function. In module "Basic Algorithm Scripting" I surprised and delighted to solving tricky task then when I've started module "Intermediate Algorithm Scripting" was more difficult but still intesting. 
+
+## DOM
+<details>
+<summary>Coursera Document Object Model Manipulation</summary>
+  <img src="task_js_dom/coursera_dom.png">
+</details>
+
+<details>
+<summary>freecodecamp Intermediate Algorithm Scripting (12-18)</summary>
+  <img src="task_js_basics/freecodecamp_inter_alg_scripting.png">
+</details>

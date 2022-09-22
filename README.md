@@ -153,4 +153,25 @@ Both modules were interesting and exciting, a good start for any beginner. Each 
     </details> 
     I like this game and their quests useful, interesting, relevant.
   </li>
-<ol>
+</ol>
+
+## JS Basics
+
+<details>
+<summary>Coursera week 4 </summary>
+  <img src="task_js_basics/coursera_js_week4.png">
+</details>
+I didn't see any special new material for myself in this module.
+I have surprised by the presentation of the material in a dynamic format. Also some theme like "Passing Variables by Value vs. by Reference" reminded me of this theory.
+All parts of this module I can be used in the future.
+
+<details>
+<summary>freecodecamp </summary>
+  <img src="task_js_basics/freecodecamp_basic_js.png">
+  <img src="task_js_basics/freecodecamp_es6.png">
+  <img src="task_js_basics/freecodecamp_basic_data_structure.png">
+  <img src="task_js_basics/freecodecamp_basic_algorithm_scripting.png">
+  <img src="task_js_basics/freecodecamp_functional_programmin.png">
+  <img src="task_js_basics/freecodecamp_inter_alg_scripting.png">
+</details>
+One of my favorite resource learning web it's "freecodecamp". I have done some task before course started and I liked amount this tasks and complexity. Each part of the module provides theoretical and practical material that helps to understand the essence of the task. In module "es6" almost all lessons was new for me I studied many powerful new features in JS my best its theme about Promise and async function. In module "Basic Algorithm Scripting" I surprised and delighted to solving tricky task then when I've started module "Intermediate Algorithm Scripting" was more difficult but still intesting. 
